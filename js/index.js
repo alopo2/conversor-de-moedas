@@ -1,3 +1,3 @@
 let valorEmDolar = 30;
-let valorEmReal = 5.35;
+let cotacaoDoDolar = 5.35;
 
